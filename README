@@ -1,0 +1,9 @@
+ 
+LLENAR EL ARCHIVO datos.txt CON TUS DATOS SIN COMILLAS, UNO POR LINEA, TODO MINUSCULA Y EN EL SIGUIENTE ORDEN:
+ 
+ 1. mail del que se envia
+ 2. password de dicho mail
+ 3. mail del que lo recibe (puede ser el mismo mail)
+ 4. legajo
+ 5. password de autogestion
+ 6. servicio (carrera)
